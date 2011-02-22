@@ -1,4 +1,3 @@
-#
 # Cookbook Name:: quick_start
 # Recipe:: default
 #
